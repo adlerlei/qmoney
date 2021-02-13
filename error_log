@@ -1,0 +1,82 @@
+[16-Mar-2019 18:33:49 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'qmoney_erp'@'localhost' to database 'qmoney_headquarters' in /home/ywg44d5r26lu/public_html/hqerp/php/db.php on line 8
+[16-Mar-2019 18:38:23 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'qmoney_erp'@'localhost' to database 'qmoney_headquarters' in /home/ywg44d5r26lu/public_html/hqerp/php/db.php on line 8
+[16-Mar-2019 18:38:34 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'qmoney_erp'@'localhost' to database 'qmoney_headquarters' in /home/ywg44d5r26lu/public_html/hqerp/php/db.php on line 8
+[20-Mar-2019 19:21:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ywg44d5r26lu/public_html/hqerp/php/db.php on line 8
+[20-Mar-2019 19:21:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ywg44d5r26lu/public_html/hqerp/php/db.php on line 8
+[20-Mar-2019 19:21:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ywg44d5r26lu/public_html/hqerp/php/functions.php on line 47
+[20-Mar-2019 19:21:05 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ywg44d5r26lu/public_html/hqerp/php/functions.php on line 64
+[20-Mar-2019 19:21:05 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[20-Mar-2019 19:21:05 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[20-Mar-2019 19:21:05 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[20-Mar-2019 19:21:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ywg44d5r26lu/public_html/hqerp/php/db.php on line 8
+[20-Mar-2019 19:21:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ywg44d5r26lu/public_html/hqerp/php/functions.php on line 47
+[20-Mar-2019 19:21:07 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ywg44d5r26lu/public_html/hqerp/php/functions.php on line 64
+[20-Mar-2019 19:21:07 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[20-Mar-2019 19:21:07 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[20-Mar-2019 19:21:07 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[20-Mar-2019 19:21:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ywg44d5r26lu/public_html/hqerp/php/db.php on line 8
+[20-Mar-2019 19:21:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ywg44d5r26lu/public_html/hqerp/php/functions.php on line 47
+[20-Mar-2019 19:21:09 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ywg44d5r26lu/public_html/hqerp/php/functions.php on line 64
+[20-Mar-2019 19:21:09 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[20-Mar-2019 19:21:09 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[20-Mar-2019 19:21:09 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[20-Mar-2019 19:21:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ywg44d5r26lu/public_html/hqerp/php/db.php on line 8
+[20-Mar-2019 19:21:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ywg44d5r26lu/public_html/hqerp/php/functions.php on line 47
+[20-Mar-2019 19:21:10 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ywg44d5r26lu/public_html/hqerp/php/functions.php on line 64
+[20-Mar-2019 19:21:10 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[20-Mar-2019 19:21:10 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[20-Mar-2019 19:21:10 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[20-Mar-2019 19:21:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ywg44d5r26lu/public_html/hqerp/php/db.php on line 8
+[20-Mar-2019 19:21:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ywg44d5r26lu/public_html/hqerp/php/functions.php on line 47
+[20-Mar-2019 19:21:11 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ywg44d5r26lu/public_html/hqerp/php/functions.php on line 64
+[20-Mar-2019 19:21:11 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[20-Mar-2019 19:21:11 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[20-Mar-2019 19:21:11 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[20-Mar-2019 19:21:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ywg44d5r26lu/public_html/hqerp/php/db.php on line 8
+[20-Mar-2019 19:21:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ywg44d5r26lu/public_html/hqerp/php/functions.php on line 47
+[20-Mar-2019 19:21:14 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ywg44d5r26lu/public_html/hqerp/php/functions.php on line 64
+[20-Mar-2019 19:21:14 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[20-Mar-2019 19:21:14 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[20-Mar-2019 19:21:14 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[20-Mar-2019 19:21:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ywg44d5r26lu/public_html/hqerp/php/db.php on line 8
+[20-Mar-2019 19:21:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ywg44d5r26lu/public_html/hqerp/php/db.php on line 8
+[21-Mar-2019 12:00:02 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[21-Mar-2019 12:00:02 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[21-Mar-2019 12:00:02 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[22-Mar-2019 12:35:40 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[22-Mar-2019 12:35:40 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[22-Mar-2019 12:35:40 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[23-Mar-2019 04:53:57 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[23-Mar-2019 04:53:57 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[23-Mar-2019 04:53:57 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[23-Mar-2019 12:03:16 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[23-Mar-2019 12:03:16 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[23-Mar-2019 12:03:16 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[23-Mar-2019 12:08:56 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[23-Mar-2019 12:08:56 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[23-Mar-2019 12:08:56 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[28-Mar-2019 03:20:15 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/create_dealer.php on line 6
+[28-Mar-2019 06:50:11 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/create_member.php on line 6
+[28-Mar-2019 06:50:13 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[28-Mar-2019 06:50:13 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[28-Mar-2019 06:50:13 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[28-Mar-2019 09:35:39 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/search_dealer.php on line 7
+[28-Mar-2019 10:50:08 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/create_member.php on line 6
+[28-Mar-2019 11:31:58 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/create_member.php on line 6
+[29-Mar-2019 03:05:46 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/search_dealer.php on line 7
+[29-Mar-2019 04:05:47 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[29-Mar-2019 04:05:47 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[29-Mar-2019 04:05:47 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[29-Mar-2019 04:37:08 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[29-Mar-2019 04:37:08 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[29-Mar-2019 04:37:08 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[29-Mar-2019 06:08:31 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[29-Mar-2019 06:08:31 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[29-Mar-2019 06:08:31 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[29-Mar-2019 06:12:11 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[29-Mar-2019 06:12:11 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[29-Mar-2019 06:12:11 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[29-Mar-2019 10:43:11 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 54
+[29-Mar-2019 10:43:11 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 108
+[29-Mar-2019 10:43:11 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/add_search_member.php on line 122
+[29-Mar-2019 10:43:38 UTC] PHP Notice:  Undefined index: user_identification in /home/ywg44d5r26lu/public_html/hqerp/search_dealer.php on line 7
